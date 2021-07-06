@@ -1,4 +1,5 @@
-# Forex-IOT-indicator-2nd-Year-
+# Forex Indicator using NodeMCU
+
 
 ## A Internet of Things project done with the help of NodeMCU to detect changes in any two currency systems with notification application for android
 Team Project 
@@ -21,8 +22,8 @@ Technologies we have used :- <br/>
 
 Sample of our notification application on phone
 ### Contributers:
-#### * <a href="https://github.com/avi-27">  Avi Singh</a> <br/>
-#### * <a href="https://github.com/deepakg1105">  Deepak Kumar Gupta</a> <br/>
+##### * <a href="https://github.com/avi-27">  Avi Singh</a> <br/>
+##### * <a href="https://github.com/deepakg1105">  Deepak Kumar Gupta</a> <br/>
 
 
 
