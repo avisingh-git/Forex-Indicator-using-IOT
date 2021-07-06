@@ -21,8 +21,8 @@ Technologies we have used :- <br/>
 
 Sample of our notification application on phone
 ### Contributers:
-####  <a href="https://github.com/avi-27"> * Avi Singh</a> <br/>
-####  <a href="https://github.com/deepakg1105"> * Deepak Kumar Gupta</a> <br/>
+#### * <a href="https://github.com/avi-27">  Avi Singh</a> <br/>
+#### * <a href="https://github.com/deepakg1105">  Deepak Kumar Gupta</a> <br/>
 
 
 
