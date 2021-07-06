@@ -12,7 +12,8 @@ Technologies we have used :- <br/>
 * ESP8266-NODEMCU .<br/>
      
 ### <a href="https://github.com/deepakg1105">Team Project with Deepak Gupta</a>
-![qq](https://user-images.githubusercontent.com/55029562/124622152-7d173400-de98-11eb-8b41-cc60d249113d.jpg)
+![qq (1)](https://user-images.githubusercontent.com/55029562/124622763-07f82e80-de99-11eb-9f2f-3992674193ca.jpg)
+
 
 
 
