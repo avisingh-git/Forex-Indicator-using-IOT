@@ -14,9 +14,9 @@ Technologies we have used :- <br/>
 
 
 
-## Contributer:
-### <a href="https://github.com/avi-27">Avi Singh</a>. <br/>
-### <a href="https://github.com/deepakg1105">Deepak Kumar Gupta</a>. <br/>
+### Contributer:
+#### <a href="https://github.com/avi-27">Avi Singh</a> <br/>
+#### <a href="https://github.com/deepakg1105">Deepak Kumar Gupta</a> <br/>
 ![qq (1)](https://user-images.githubusercontent.com/55029562/124622763-07f82e80-de99-11eb-9f2f-3992674193ca.jpg)
 
 
